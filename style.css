@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(to left,orange,yellow,cyan);
+    border:solid maroon 0.1cm;
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
